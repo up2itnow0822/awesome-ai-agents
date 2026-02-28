@@ -103,6 +103,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://www.aie.foundation/">website</a> | <a href="https://www.aie.foundation/">website</a> | <a href="https://github.com/AI-Engineer-Foundation/agent-protocol">github</a> | <a href="https://github.com/AI-Engineer-Foundation">github profile</a></p>
 </div>
 
+### Agent Wallet SDK
+<div><a href="https://github.com/up2itnow0822/agent-wallet-sdk"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/up2itnow0822/agent-wallet-sdk"><img src="https://img.shields.io/github/stars/up2itnow0822/agent-wallet-sdk?style=social" alt="GitHub stars"></a></div>
+<p>💰 Agent Infrastructure</p>
+
+<p>Non-custodial smart contract wallets built for AI agents. Agents operate as on-chain operators with owner-set daily and per-transaction spend limits — no custodial risk, no key sharing. TypeScript SDK, deployed on Base L2, MIT licensed.</p>
+
+<p><a href="https://github.com/up2itnow0822/agent-wallet-sdk">github</a> | <a href="https://www.npmjs.com/package/agentwallet-sdk">npm</a></p>
+</div>
+
 ### Agent Tools
 <div><a href="https://github.com/aibtcdev/agent-tools-ts"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/aibtcdev/agent-tools-ts"><img src="https://img.shields.io/github/stars/aibtcdev/agent-tools-ts?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 16 stars (Updated: 2025-07-30)</p>
