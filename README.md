@@ -223,6 +223,17 @@ Here's an awesome list of AI agents:
 <p><a href="https://chatagentx.com/">website</a> | <a href="https://twitter.com/agentxai">twitter</a> | <a href="https://buttondown.email/agentx">newsletter</a></p>
 </div>
 
+
+### agentwallet-sdk
+<div><a href="https://github.com/agentwallet-sdk/agentwallet-sdk"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/agentwallet-sdk/agentwallet-sdk"><img src="https://img.shields.io/github/stars/agentwallet-sdk/agentwallet-sdk?style=social" alt="GitHub stars"></a></div>
+
+<p>🛠️ SDKs & Infrastructure</p>
+
+<p>Non-custodial wallet SDK for autonomous AI agents. On-chain spend limits, 17-chain CCTP V2 bridge, Jupiter swaps, x402 payments. 376 tests. MIT.</p>
+
+<p><a href="https://github.com/agentwallet-sdk/agentwallet-sdk">github</a> | <a href="https://www.npmjs.com/package/agentwallet-sdk">npm</a></p>
+</div>
+
 ### AGiXT
 <div><a href="https://github.com/Josh-XT/AGiXT"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/Josh-XT/AGiXT"><img src="https://img.shields.io/github/stars/Josh-XT/AGiXT?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 3,052 stars (Updated: 2025-07-30)</p>
